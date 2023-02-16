@@ -5,7 +5,7 @@
 
 > A libary website using basic html, css and js
 
-### 🏠 [Homepage](https://oscarnyo.github.io/E-commerce/)
+### 🏠 [Homepage](https://github.com/Oscarnyo/E-commerce)
 
 ### ✨ [Demo](https://oscarnyo.github.io/E-commerce/)
 
@@ -15,9 +15,3 @@
 
 * Github: [@Oscarnyo](https://github.com/Oscarnyo)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
